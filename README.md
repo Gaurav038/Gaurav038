@@ -1,9 +1,9 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height="100" width="600"  />
-<img src="./images/code5.gif" align="center" height="200" width="600"  />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height="200" width="600"  />
+<img src="./images/code5.gif" align="center" height="150" width="600"  />
 </div>  
 
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="60%">
 
 ### <div align="center">I'm Gaurav, a Full-stack developer 👨‍💻 Blockchain technology enthusiast  🚀</div>  
   
@@ -20,20 +20,20 @@
 - 🧑‍🤝‍🧑 I’m looking to collaborate with opensource.  
 
 
-</td><td valign="top" width="50%">
+</td><td valign="top" width="40%">
 
-<img src="./images/coder7.gif" align="left" height="300" width="300" />  
+<img src="./images/coder7.gif" align="left" height="300" width="500" />  
 
 </td></tr></table>  
 
 <br/>  
 
-<img src="./images/code4.gif" alignItem="center" height="130" width="700" /> 
+<!-- <img src="./images/code4.gif" alignItem="center" height="130" width="700" /> 
 
-<br/>
+<br/> -->
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="50%">
 
 
 
@@ -47,7 +47,7 @@
 <a href="https://www.chartjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="50%">
 
 
 
@@ -63,7 +63,7 @@
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+<!-- </td><td valign="top" width="33%"> -->
 
 
 
@@ -98,12 +98,8 @@
 
 ### 🧬 LIFE RULES 📋 
 
-<img src="./images/coder.gif" align="center" height="300" width="600" />  
+<img src="./images/coder.gif" align="center" height="300" width="800" />  
   
-
-<br/>  
-
-  <img src="./images/coder2.gif" align="center" height="130" width="600" /> 
 
 <br/>  
 
