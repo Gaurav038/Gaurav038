@@ -1,5 +1,6 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height="100" width="600"  />
+<img src="./images/code5.gif" align="center" height="200" width="600"  />
 </div>  
 
 <table><tr><td valign="top" width="50%">
@@ -21,13 +22,15 @@
 
 </td><td valign="top" width="50%">
 
-<img src="./images/coder.gif" align="left" height="400" width="600" />  
-
+<img src="./images/coder7.gif" align="left" height="300" width="300" />  
 
 </td></tr></table>  
 
 <br/>  
 
+<img src="./images/code4.gif" alignItem="center" height="130" width="700" /> 
+
+<br/>
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -93,13 +96,14 @@
 
 
 
-### 🧬 LIFE RULES 📋  
-![](https://cdn.dribbble.com/users/2789762/screenshots/8630894/media/583b209224b027954cb6e8b9901cb731.gif)  
+### 🧬 LIFE RULES 📋 
+
+<img src="./images/coder.gif" align="center" height="300" width="600" />  
   
 
 <br/>  
 
-  
+  <img src="./images/coder2.gif" align="center" height="130" width="600" /> 
 
 <br/>  
 
@@ -111,5 +115,5 @@
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
 
