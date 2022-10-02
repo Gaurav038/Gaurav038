@@ -22,7 +22,7 @@
 
 </td><td valign="top" width="40%">
 
-<img src="./images/coder7.gif" align="left" height="300" width="500" />  
+<img src="./images/coder7.gif" align="left" height="300" width="300" />  
 
 </td></tr></table>  
 
