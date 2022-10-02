@@ -1,3 +1,7 @@
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
+
 <table><tr><td valign="top" width="50%">
 
 ### <div align="center">I'm Gaurav, a Full-stack developer 👨‍💻 Blockchain technology enthusiast  🚀</div>  
@@ -17,7 +21,7 @@
 
 </td><td valign="top" width="50%">
 
-<img src="https://cdn.dribbble.com/users/2789762/screenshots/8630894/media/583b209224b027954cb6e8b9901cb731.gif" align="left" height="400" width="600" />  
+<img src="./images/coder.gif" align="left" height="400" width="600" />  
 
 
 </td></tr></table>  
