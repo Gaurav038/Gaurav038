@@ -94,6 +94,7 @@
 
 <br/>  
 
+[![@gauravname's Holopin board](https://holopin.me/gauravname)](https://holopin.io/@gauravname)
 
 
 ### 🧬 LIFE RULES 📋 
