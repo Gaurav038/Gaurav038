@@ -91,7 +91,9 @@
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Gaurav038&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
+<p style="text-align: center;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehradevesh2022&" alt="mehradevesh2022" style="margin: auto;"/>
+</p>
 <br/>  
 
 [![@gauravname's Holopin board](https://holopin.me/gauravname)](https://holopin.io/@gauravname)
