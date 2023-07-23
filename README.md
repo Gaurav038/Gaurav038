@@ -5,7 +5,7 @@
 
 <table><tr><td valign="top" width="60%">
 
-### <div align="center">I'm Gaurav, a Full-stack developer 👨‍💻 Blockchain technology enthusiast  🚀</div>  
+### <div align="center">I'm Gaurav, a Full-stack developer 👨‍💻Web || Android technology enthusiast  🚀</div>  
   
 
 - 🔭 I’m currently working on College Projects  
