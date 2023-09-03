@@ -8,17 +8,25 @@
 ### <div align="center">I'm Gaurav, a Full-stack developer 👨‍💻Web || Android technology enthusiast  🚀</div>  
   
 
-- 🔭 I’m currently working on College Projects  
+- 🔭 I earned my B.Tech in Computer Science and Engineering from Uttarakhand Technical University Passout batch 2023  
   
+- 🌱 Looking forward to have a successful professional career as a Software Engineerr 
 
-- 🌱 I’m currently learning Data Structures & Algorithms  
-  
+- ⚡ I'm currently surfing the web to improve my Development Experience! In short🍺, I love to work on new technologies. ❤️
 
 - ✉️ You can reach me at gauravkarki038@gmail.com  
   
-
 - 🧑‍🤝‍🧑 I’m looking to collaborate with opensource.  
 
+### ⚙️ &nbsp; Work experience :
+
+---
+
+⚡ Worked as a Software Engineering Intern at [JellyBean](https://www.jellybean.life/).<br>
+⚡ Worked as a Software Engineering Intern at [SkyGoal](https://skygoal.education/).<br>
+⚡ Worked as a Software Engineering Intern at [NeonFlake](https://www.neonflake.com/).<br>
+⚡ Worked as a FullStack Devloper Intern at [The Sparks Foundation](https://www.thesparksfoundationsingapore.org/).<br>
+⚡ Worked as a Frontend Developer Intern at [NPSEI](https://sitp.ac.in/) <br>
 
 </td><td valign="top" width="40%">
 
